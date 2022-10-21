@@ -1,6 +1,6 @@
 # Yandex Practicum Portfolio
 
-## Final project
+## Churn prediction for telecom company
 
 
 | Project's name | Description | Task | Skills |
