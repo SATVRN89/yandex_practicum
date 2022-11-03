@@ -1,4 +1,4 @@
 # Gold mining from ore
 | Description | Task | Result | Skills |
 | :----:|  ---- |  ---- |  :----: |
-| Used car sales<br/> service want model<br/> to be built to<br/> predict cost of cars | Build model with<br/> RMSE metric<br/> lower than 2500 | Best model is<br/> LGBMRegressor<br/> RMSE = 1726 | `Pandas`, `NumPy`, `Sklearn`,<br/> `Matplotlib`, `Seaborn`,<br/> `Sklearn`, `LightGBM`
+| Gold mining company<br/> wants to build model<br/> which predict recovery<br/> rate of gold from ore | Build model with<br/>best sMAPE metric | Best model is<br/> RandomForestRegressor<br/> sMAPE = 7.255 | `Pandas`, `NumPy`, `Sklearn`,<br/> `Matplotlib`, `Seaborn`
